@@ -57,6 +57,21 @@ nav a{
   font-weight: bold;
 }
 
+
+
+.section-heading h2{
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 35px;
+  
+}
+
+.section-heading p{
+  margin-bottom: 30px;
+  line-height: 30px;
+  color: #757575;
+}
+
 #banner{
   margin: 47px 38px 0px 230px;
   display: flex;
@@ -96,4 +111,25 @@ nav a{
 
 }
 
+#about{
+  padding-top: 127px;
+}
+
+#about .about-container{
+  text-align: center;
+  width: 71%;
+  background-color: #FFF8F3;
+  padding: 131px 156px;
+  margin: 0 auto;
+}
+
+#about .about-container .about-info{
+  display: flex;
+  justify-content: space-around;
+}
+
+.info-card p{
+  color: #757575;
+
+}
   
